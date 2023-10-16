@@ -9,6 +9,6 @@ Here are some key differences between the two:
 In summary, Vite is a faster and more lightweight tool that requires less configuration, while CRA provides more features and has a larger ecosystem. Which one you choose depends on your specific needs and preferences. If you want a simple and fast setup, Vite might be the better choice. If you want a more feature-rich and widely supported tool, CRA might be the better choice.
 
 ## Useful Links
-* [An intro to Webpack] (https://www.freecodecamp.org/news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/)
-* [Create-React-App docs] (https://create-react-app.dev/docs/getting-started)
-* [Vite guide] (https://vitejs.dev/guide/)
+* [An intro to Webpack](https://www.freecodecamp.org/news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/)
+* [Create-React-App docs](https://create-react-app.dev/docs/getting-started)
+* [Vite guide](https://vitejs.dev/guide/)
