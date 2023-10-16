@@ -28,7 +28,7 @@ _Both versions are equivalent and will give you the exact same output."_
 
 Class components extend from the React.Component class. React.Component objects have state, meaning the object can hold information that can change over the lifetime of the object. They can also respond to lifecycle methods, like *ComponentDidMount()*, *ComponentDidUpdate()*, and *ComponentWillUnMount()*.
 
-*Note:* Lifecycle methods enable updated state information to trigger a re-render, which updates the DOM with revised HTML markup.
+**Note:** Lifecycle methods enable updated state information to trigger a re-render, which updates the DOM with revised HTML markup.
 
 ### Differences between functional and class-Components
 
