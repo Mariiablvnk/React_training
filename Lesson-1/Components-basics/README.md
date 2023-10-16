@@ -47,4 +47,4 @@ You might ask yourself why you should use functional components at all, if they 
 
 ## Useful Links
 
-* (Comparing class and functional components)[https://www.educative.io/blog/react-component-class-vs-functional]
+* [Comparing class and functional components](https://www.educative.io/blog/react-component-class-vs-functional)
