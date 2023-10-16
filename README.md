@@ -9,4 +9,4 @@ Each topic has its own README file with corresponding explanations and links to 
 
 ## Lesson 1
 
-* [CLI Tools](React_training/Lesson-1/CLI-tools)
+* [CLI Tools](Lesson-1/CLI-tools)
