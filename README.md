@@ -10,3 +10,4 @@ Each topic has its own README file with corresponding explanations and links to 
 ## Lesson 1
 
 * [CLI Tools](Lesson-1/CLI-tools)
+* [Components Basics. Props, state](Lesson-1/Components-basics)
