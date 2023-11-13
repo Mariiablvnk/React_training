@@ -13,4 +13,4 @@ In summary, Vite is a faster and more lightweight tool that requires less config
 * [Create-React-App docs](https://create-react-app.dev/docs/getting-started)
 * [Vite guide](https://vitejs.dev/guide/)
 
-### [Next part. Components basics](./Components-basics)
+### [Next part. Components basics](/Lesson-1/Components-basics/)
