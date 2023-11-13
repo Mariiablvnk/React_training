@@ -92,4 +92,4 @@ And how does React get notified? You guessed it: with setState( ). The setState(
 * [React hooks explained](https://www.youtube.com/watch?v=O6P86uwfdR0)
 * [Learn to use State in React](https://www.youtube.com/watch?v=kkuq0gTGRFQ)
 
-### [Next part. Conditional rendering](Conditional-rendering)
+### [Next part. Conditional rendering](/Lesson-2/Conditional-rendering/)

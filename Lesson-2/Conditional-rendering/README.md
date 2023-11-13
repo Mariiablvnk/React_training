@@ -307,5 +307,9 @@ The code above can be turned into the following code snippet, as seen in the cod
 )
 ```
 
+## Useful Videos 
+
+* [React conditional rendering in 7 minutes](https://www.youtube.com/watch?v=4oCVDkb_EIs)
+
 ### [Lesson 2. Homework](/Lesson-2/HW-Lesson-2)
 

@@ -63,4 +63,4 @@ Read more about [props & state](https://www.javatpoint.com/react-state-vs-props)
 
 **Note:** Don't copy the code, be creative! 
 
-### [Go to lesson 2](Lesson-2/README.md)
+### [Go to lesson 2](../../Lesson-2)
