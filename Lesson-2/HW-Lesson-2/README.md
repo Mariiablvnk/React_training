@@ -1,7 +1,7 @@
 # Homework-2
 
 
-** ! Use the project you have created in the last hometask ! **
+**! Use the project you have created in the last hometask !**
 
 ## Task
 ### Step 1
