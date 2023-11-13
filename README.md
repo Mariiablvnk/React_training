@@ -17,5 +17,5 @@ Each topic has its own README file with corresponding explanations and links to 
 
 * [Props & State](Lesson-2)
 * [Conditional Rendering](Lesson-2/Conditional-rendering)
-* [Conditional Rendering](Lesson-2/HW-Lesson-2)
+* [Homework](Lesson-2/HW-Lesson-2)
 

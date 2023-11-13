@@ -1,5 +1,8 @@
 # Homework-2
 
+
+** ! Use the project you have created in the last hometask ! **
+
 ## Task
 ### Step 1
 Create an input with button for the feature search of the weather. By pressing the button, the input value should be saved in the component state. 
