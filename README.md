@@ -13,3 +13,8 @@ Each topic has its own README file with corresponding explanations and links to 
 * [Components Basics. Props, state](Lesson-1/Components-basics)
 * [Homework](Lesson-1/HW-Lesson-1)
 
+## Lesson 2
+
+* [Props & State](Lesson-2)
+* [Props & State](Lesson-2/Conditional-rendering)
+
