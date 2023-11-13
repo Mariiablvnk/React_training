@@ -8,7 +8,7 @@ By the end of this course you will create your own completely responsive Weather
 ### Step 1
 Set up React project using the below command in VSCode IDE.
 
-```npx create-react-app <<name_of_your_project>>``
+```npx create-react-app <<name_of_your_project>>```
 
 ### Step 1
 Navigate to the newly created project folder by executing the below command.
@@ -57,4 +57,10 @@ function WeatherApp() {
   
 export default GfGWeatherApp;
 ```
+
+### Step 6
+Read more about [props & state](https://www.javatpoint.com/react-state-vs-props) and add their usage to your code. Pay attention on their purposes, similarities and differences.
+
 **Note:** Don't copy the code, be creative! 
+
+### [Go to lesson 2](Lesson-2)

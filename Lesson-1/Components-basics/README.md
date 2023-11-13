@@ -48,3 +48,6 @@ You might ask yourself why you should use functional components at all, if they 
 ## Useful Links
 
 * [Comparing class and functional components](https://www.educative.io/blog/react-component-class-vs-functional)
+* [React lifecycle methods diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+### [Lesson 1. Homework](Lesson-1/Components-basics)
