@@ -9,3 +9,5 @@ Create an input with button for the feature search of the weather. By pressing t
 
 ### Step 2
 Create a header and condition for its rendering. When the state has the name of the city from input, it must be shown in a header.
+
+### [Go to lesson 3](../../Lesson-3)

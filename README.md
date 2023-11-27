@@ -19,3 +19,8 @@ Each topic has its own README file with corresponding explanations and links to 
 * [Conditional Rendering](Lesson-2/Conditional-rendering)
 * [Homework](Lesson-2/HW-Lesson-2)
 
+## Lesson 3
+
+* [React Hooks](Lesson-3/React%20Hooks/)
+* [React Forms](Lesson-3/React%20Forms/)
+* [Homework](Lesson-3/HW-Lesson-3)
