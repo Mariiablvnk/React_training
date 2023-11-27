@@ -8,4 +8,4 @@ Prepare a logic for style change using react hooks. For example, you can create 
 
 **Note:** Styling and API requests we consider in the  lessons 4 and 5.
  
-### [Go to lesson 4](../../Lesson-4)
+### [Go to lesson 4](../../Lesson-4/API-Calls/)
