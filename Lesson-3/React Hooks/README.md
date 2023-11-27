@@ -35,4 +35,4 @@ If you are looking for a step-by-step guide to design and create a custom hook, 
 ## Useful Links
 * [An intro to React Hooks](https://www.youtube.com/watch?v=CvNvRaS3u60&ab_channel=tapaScriptbyTapasAdhikary)
 
-### [Next part. React Forms](/Lesson-3/React Forms/)
+### [Next part - React Forms](/Lesson-3/React%20Forms/)

@@ -227,4 +227,4 @@ Find more details on the useForm Hook in the [API reference](https://react-hook-
 
 * [React Hooks Form Playlist](https://www.youtube.com/watch?v=KejZXxFCe2k&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&ab_channel=Codevolution)
 
-### [Lesson 3. Homework](/Lesson-3/HW-Lesson-1)
+### [Lesson 3. Homework](/Lesson-3/HW-Lesson-3)
